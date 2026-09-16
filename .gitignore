@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / Secrets
+.env
+*.pem
+*.key
+
+# Large datasets
+*.csv
+*.rar
+*.zip
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+checkpoints/
+
+# Logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
