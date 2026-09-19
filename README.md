@@ -6,6 +6,16 @@ An end-to-end Big Data pipeline for Network Intrusion Detection System (NIDS) tr
 
 The project demonstrates how large-scale network traffic data can be ingested, processed, stored, analyzed, and used for machine learning in a distributed environment.
 
+## 👥 Team Members
+
+- Amira Azzam
+- Ahmed Samy
+- Randa Ashraf
+
+##  Supervised by
+
+Eng. Ahmed Hassan
+
 ## Pipeline Architecture
 
 ```text
