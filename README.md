@@ -12,8 +12,7 @@ The project demonstrates how large-scale network traffic data can be ingested, p
 - Ahmed Samy
 - Randa Ashraf
 
-##  Supervised by
-
+## 👨‍🏫 Supervised by
 Eng. Ahmed Hassan
 
 ## Pipeline Architecture
